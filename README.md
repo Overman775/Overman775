@@ -1,15 +1,15 @@
 ### 💬 Contacts  
   
- + **Telegram:** [@PlugFox](https://t.me/Overman775)   
- + **Linkedin:** [linkedin.com/in/PlugFox](https://www.linkedin.com/in/overman775/)  
+ + **Telegram:** [@Overman775](https://t.me/Overman775)   
+ + **Linkedin:** [linkedin.com/in/overman775](https://www.linkedin.com/in/overman775/)  
  + **GitHub:** [github.com/Overman775](https://github.com/Overman775/)  
-  
+
   
 ### ⭐ Open Source Projects  
   
 [![easy_localization](https://github-readme-stats.vercel.app/api/pin/?username=aissat&repo=easy_localization)](https://github.com/aissat/easy_localization)   
-[![Flutter-Neumorphic](https://github-readme-stats.vercel.app/api/pin/?username=idean&repo=flutter-neumorphic)](https://github.com/Idean/Flutter-Neumorphic)
-[![flutter_screenutil](https://github-readme-stats.vercel.app/api/pin/?username=OpenFlutter&repo=flutter_screenutil)](https://github.com/OpenFlutter/flutter_screenutil)  
+[![Flutter-Neumorphic](https://github-readme-stats.vercel.app/api/pin/?username=idean&repo=flutter-neumorphic)](https://github.com/Idean/Flutter-Neumorphic)   
+[![flutter_screenutil](https://github-readme-stats.vercel.app/api/pin/?username=OpenFlutter&repo=flutter_screenutil)](https://github.com/OpenFlutter/flutter_screenutil)   
 
 ### ⭐ Personal Projects  
 
