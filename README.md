@@ -11,7 +11,7 @@
 [![Flutter-Neumorphic](https://github-readme-stats.vercel.app/api/pin/?username=idean&repo=flutter-neumorphic)](https://github.com/Idean/Flutter-Neumorphic)   
 [![flutter_screenutil](https://github-readme-stats.vercel.app/api/pin/?username=OpenFlutter&repo=flutter_screenutil)](https://github.com/OpenFlutter/flutter_screenutil)   
 
-### ⭐ Personal Projects  
+### 🧔 Personal Projects  
 
 [![Tabor](https://github-readme-stats.vercel.app/api/pin/?username=Overman775&repo=tabor_chat)](https://github.com/Overman775/tabor_chat)  
 [![Neo-Todo](https://github-readme-stats.vercel.app/api/pin/?username=Overman775&repo=Neo-Todo)](https://github.com/Overman775/Neo-Todo)   
