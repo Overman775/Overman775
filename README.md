@@ -20,4 +20,6 @@
 ### 📈 Scores & Stats  
   
 [![Overman775's Github Stats](https://github-readme-stats.vercel.app/api?username=overman775&count_private=true&theme=default&show_icons=true)](https://github.com/Overman775) 
-[![Coderanks Summary](https://badges.plugfox.dev/dart_rank.svg)](https://profile.codersrank.io/user/overman775)  
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dkrutskikh&layout=compact&theme=default)
+[![Coderanks Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=overman775&badges=2&branding=false&show-header=false)](https://profile.codersrank.io/user/overman775)
+
